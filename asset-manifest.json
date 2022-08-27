@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-select-chart-year/static/css/main.7017cc23.css",
+    "main.js": "/react-select-chart-year/static/js/main.4897bf87.js",
+    "static/js/787.86314ff6.chunk.js": "/react-select-chart-year/static/js/787.86314ff6.chunk.js",
+    "index.html": "/react-select-chart-year/index.html",
+    "main.7017cc23.css.map": "/react-select-chart-year/static/css/main.7017cc23.css.map",
+    "main.4897bf87.js.map": "/react-select-chart-year/static/js/main.4897bf87.js.map",
+    "787.86314ff6.chunk.js.map": "/react-select-chart-year/static/js/787.86314ff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7017cc23.css",
+    "static/js/main.4897bf87.js"
+  ]
+}
